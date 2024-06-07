@@ -22,4 +22,4 @@ Este projeto consiste em um sistema de registro e monitoramento de espécies inv
    ```bash
    git clone <URL_DO_REPOSITORIO>
 # Execute o Script:
-python <NOME_DO_SCRIPT>.py
+python <Gs-Python>.py
