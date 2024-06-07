@@ -23,3 +23,6 @@ Este projeto consiste em um sistema de registro e monitoramento de espécies inv
    git clone <URL_DO_REPOSITORIO>
 # Execute o Script:
 python <Gs-Python>.py
+
+
+Segue vídeo para a gs - https://www.youtube.com/watch?v=iedvG8qt_vg
